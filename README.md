@@ -3,3 +3,4 @@
 # programation-C-exercice-13-tableau-de-multiplication-0-to-10
 # programation-C-exercice-14-calcule-de-somme-entier-
 # programation-C-exercice-15-somme-de-8-nombre-positive
+# programation-C-exercice-15-somme-de-16-nombre-positive-and-forget-negative
