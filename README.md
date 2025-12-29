@@ -6,3 +6,4 @@
 # programation-C-exercice-15-somme-de-16-nombre-positive-and-forget-negative
 # programation-C-exercice-16
 # programation-C-exercice-17-nombre-entre-1-et-5
+# programation-C-exercice-18-calcule-la-moyenne-de-note-des-etudiants
